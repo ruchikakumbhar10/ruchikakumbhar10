@@ -6,6 +6,7 @@
 - 💬 Ask me about **Data Analysis**
 
 - 📫 How to reach me **ruchikakumbhar0@gmail.com**
+- 🌐 Portfolio: [(https://www.datascienceportfol.io/nishigandhapawar69)]
 
 
 
