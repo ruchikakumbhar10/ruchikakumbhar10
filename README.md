@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ruchika Kumbhar</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
+<h3 align="left">Hey there! I'm Ruchika Kumbhar, a dedicated data analyst passionate about uncovering patterns in data and driving informed decisions. Based in Maharashtra, India, I specialize in Python, SQL, Excel, PowerBI, Data Wrangling,  Data Visualization, and Predictive Modeling to solve real-world problems.</h3>
 
 
 
 - 💬 Ask me about **Data Analysis**
 
 - 📫 How to reach me **ruchikakumbhar0@gmail.com**
-- 🌐 Portfolio: [(https://www.datascienceportfol.io/nishigandhapawar69)]
+- 🌐 Portfolio: [(https://ruchika-kumbhar-6ly02ps.gamma.site/)]
 
 
 
