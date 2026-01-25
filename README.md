@@ -7,7 +7,7 @@
 
 # 💫 About Me
 
-Hey there! I'm Ruchika Kumbhar, a dedicated data analyst passionate about uncovering patterns in data and driving informed decisions. Based in Maharashtra, India, I specialize in Python, SQL, Excel, PowerBI, Data Wrangling,  Data Visualization, and Predictive Modeling to solve real-world problems.
+Hey there! I'm Ruchika Kumbhar, a dedicated Data Analyst passionate about uncovering patterns in data and driving informed decisions. Based in Maharashtra, India. My Skills are in Python, SQL, Excel, PowerBI, Data Wrangling, Data Visualization, and Predictive Modeling to solve real-world problems.
 
 
 
@@ -23,16 +23,16 @@ Hey there! I'm Ruchika Kumbhar, a dedicated data analyst passionate about uncove
 
 ## 👩‍🎓 Education & Background
 
-  A Computer Applications Student with expertise in Data Analysis and Science.
+  A Computer Applications Student with expertise in Data Analysis and Data Science. Having an Academic Score of 9.18 CGPA.
 
 
 
 
 ## 🌟 What I Do
 
-➠ Skilled in Python, SQL, Power BI, Excel, and Data Visualization  
-➠ Hands-on experience with real-world data science projects  
-➠ Focused on mastering machine learning and interactive dashboards
+➠ Skilled in Python, SQL, Power BI, Excel, Gen AI and Machine Learning   
+➠ Hands-on experience with real-world Data Analysis projects  
+➠ Focused on mastering Machine Learning and Interactive Dashboards
 
 
 
