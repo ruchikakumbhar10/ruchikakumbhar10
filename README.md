@@ -21,9 +21,9 @@ Hey there! I'm Ruchika Kumbhar, a dedicated Data Analyst passionate about uncove
 - Hackerrank : **https://www.hackerrank.com/profile/ruchikakumbhar0**
 
 
---
 
 ## 👩‍🎓 Education & Background
+
 
   A Computer Applications Student with expertise in Data Analysis and Data Science. Having an Academic Score of 9.18 CGPA.
 
