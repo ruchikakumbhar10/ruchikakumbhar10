@@ -23,14 +23,14 @@ Hey there! I'm Ruchika Kumbhar, a dedicated Data Analyst passionate about uncove
 
 
 
-# 👩‍🎓 Education & Background
+## 👩‍🎓 Education & Background
 
   A Computer Applications Student with expertise in Data Analysis and Data Science. Having an Academic Score of 9.18 CGPA.
 
 
 
 
-# 🌟 What I Do
+## 🌟 What I Do
 
 ➠ Skilled in Python, SQL, Power BI, Excel, Gen AI and Machine Learning   
 ➠ Hands-on experience with real-world Data Analysis projects  
