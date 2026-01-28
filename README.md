@@ -15,8 +15,8 @@ Hey there! I'm Ruchika Kumbhar, a dedicated Data Analyst passionate about uncove
 ##
 
 - 💬 Ask me about **Data Analysis**
-- 📫 How to reach me **ruchikakumbhar0@gmail.com**
-- 🌐 Portfolio: **https://ruchika-kumbhar-6ly02ps.gamma.site/**
+- How to reach me **ruchikakumbhar0@gmail.com**
+- Portfolio: **https://ruchika-kumbhar-6ly02ps.gamma.site/**
 - Linkedln : **www.linkedin.com/in/ruchika-kumbhar**
 
 
