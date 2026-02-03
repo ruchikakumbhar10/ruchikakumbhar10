@@ -42,7 +42,7 @@ Hey there! I'm Ruchika Kumbhar, a dedicated Data Analyst passionate about uncove
 <p align="left">
 <a href="https://linkedin.com/in/ruchika kumbhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ruchika kumbhar" height="30" width="40" /></a>
 <a href="https://kaggle.com/ruchikakumbhar1806" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ruchikakumbhar1806" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ruchika_2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ruchika_2005" height="30" width="40" /></a>
+<a href="https://ruchika-kumbhar-nf84i6v.gamma.site/ruchika-kumbhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ruchika_2005" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/ruchikakumbhar0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ruchika_2005" height="30" width="40" /></a>
 </p>
 
