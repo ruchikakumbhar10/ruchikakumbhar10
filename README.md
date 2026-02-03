@@ -6,14 +6,14 @@
 - How to reach me **ruchikakumbhar0@gmail.com**
 - Portfolio: **https://ruchika-kumbhar-nf84i6v.gamma.site/ruchika-kumbhar**
 
----
 
-# 💫 About Me
+
+## 💫 About Me
 
 Hey there! I'm Ruchika Kumbhar, a dedicated Data Analyst passionate about uncovering patterns in data and driving informed decisions. Based in Maharashtra, India. My Skills are in Python, SQL, Excel, PowerBI, Data Wrangling, Data Visualization, and Predictive Modeling to solve real-world problems. 
 With a solid foundation in Data Science, Business Analytics, Machine Learning, Deep Learning, NLP and Gen-AI, I'm skilled in Statistical Analysis, EDA and ETL/ELT workflows. I bring experience in developing AI-powered analytical solutions and interactive dashboards.
 
----
+
 
 
 ## 👩‍🎓 Education & Background
