@@ -19,7 +19,7 @@ With a solid foundation in Data Science, Business Analytics, Machine Learning, D
 ## 👩‍🎓 Education & Background
 
 
-  A Computer Applications Student with expertise in Data Analysis and Data Science. Having an Academic Score of 9.18 CGPA.
+  A Computer Applications Student with expertise in Data Analysis and Data Science. Having an Academic Score of 9.25 CGPA.
 
 
 
